@@ -2,6 +2,6 @@
 from datetime import timedelta
 from typing import Final
 
-DOMAIN: Final = "switchbot_cloud test"
-ENTRY_TITLE = "SwitchBot Cloud Test"
+DOMAIN: Final = "switchbot_cloudtest"
+ENTRY_TITLE = "SwitchBot CloudTest"
 SCAN_INTERVAL = timedelta(seconds=600)
