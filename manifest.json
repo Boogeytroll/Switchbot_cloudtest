@@ -1,0 +1,10 @@
+{
+  "domain": "switchbot_cloudtest",
+  "name": "SwitchBot Cloud Test",
+  "codeowners": ["@Boogeytroll"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/switchbot_cloud",
+  "iot_class": "cloud_polling",
+  "loggers": ["switchbot-api"],
+  "requirements": ["switchbot-api==1.2.1"]
+}
